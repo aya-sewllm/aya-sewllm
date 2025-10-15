@@ -38,8 +38,8 @@
 
 <!-- My Tech Stack using skillicons.dev - مفصلة أيقونة أيقونة -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- Core Frontend & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin: 10px;" />
+  <!-- Core Backend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=css" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=js" width="50" style="margin: 10px;" />
